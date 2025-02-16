@@ -23,7 +23,7 @@ A modern, responsive authentication system built with React and Vite, featuring 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/hamzayounas256/login-signup-system.git
+git clone https://github.com/hamzayounas256/loginsignup.git
 ```
 
 2. Navigate to the project directory:
