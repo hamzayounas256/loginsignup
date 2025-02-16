@@ -23,12 +23,12 @@ A modern, responsive authentication system built with React and Vite, featuring 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/login-signup-system.git
+git clone https://github.com/hamzayounas256/login-signup-system.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd login-signup-system
+cd loginsignup
 ```
 
 3. Install dependencies:
@@ -42,14 +42,6 @@ npm run dev
 ```
 
 The application will start running at `http://localhost:5173`
-
-## 🔧 Environment Variables
-
-Create a `.env` file in the root directory and add the following:
-
-```env
-VITE_API_URL=your_api_url_here
-```
 
 ## 📂 Project Structure
 
@@ -100,15 +92,10 @@ git push origin feature/your-feature-name
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](link-to-your-issues-page).
+Contributions, issues, and feature requests are welcome! Feel free to check the [Hamza Younas](https://github.com/hamzayounas256).
 
 ## 👨‍💻 Author
 
 Your Name
 - GitHub: [Hamza Younas](https://github.com/hamzayounas256)
 - LinkedIn: [Hamza Younas](https://www.linkedin.com/in/hamza-younas-69a2aa220/)
-
-## 🙏 Acknowledgments
-
-- Design inspiration from [mention sources if any]
-- Icons from [mention icon source]
